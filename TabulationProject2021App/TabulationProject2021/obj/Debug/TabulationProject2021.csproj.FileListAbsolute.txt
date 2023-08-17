@@ -1,0 +1,75 @@
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.exe.config
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.exe
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.pdb
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.AssemblyReference.cache
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Properties.Resources.resources
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.GenerateResource.cache
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.exe
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.pdb
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Login.resources
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringEveningGown.resources
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\Guna.UI2.dll
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\Transitions.dll
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\Transitions.pdb
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Server.resources
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringFinalQA.resources
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationLibraryData.pdb
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.CopyComplete
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.AssemblyReference.cache
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Login.resources
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Properties.Resources.resources
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringEveningGown.resources
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringFinalQA.resources
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Server.resources
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.GenerateResource.cache
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.CoreCompileInputs.cache
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.exe
+C:\Users\Love Joy\source\repos\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.AssemblyReference.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.exe
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.exe.config
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.exe
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\Guna.UI2.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\Transitions.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationLibraryData.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\Transitions.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Login.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Properties.Resources.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringEveningGown.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringFinalQA.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.GenerateResource.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.EventSelection.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerEveningGownResult.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerUI.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerFinalQAResult.resources
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerOverallResult.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.exe.config
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.exe
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationProject2021.pdb
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\Guna.UI2.dll
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationLibraryData.dll
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\Transitions.dll
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\TabulationLibraryData.pdb
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\bin\Debug\Transitions.pdb
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.AssemblyReference.cache
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.SuggestedBindingRedirects.cache
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.EventSelection.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Login.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.Properties.Resources.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringEveningGown.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ScoringFinalQA.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerEveningGownResult.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerFinalQAResult.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerOverallResult.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.ServerUI.resources
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.GenerateResource.cache
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.CoreCompileInputs.cache
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.csproj.CopyComplete
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.exe
+D:\MINE\TabulationProject2021App\TabulationProject2021App\TabulationProject2021\obj\Debug\TabulationProject2021.pdb

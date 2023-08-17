@@ -1,0 +1,12 @@
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.csproj.AssemblyReference.cache
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationLibraryData\bin\Debug\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationLibraryData\bin\Debug\TabulationLibraryData.pdb
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Desktop\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\bin\Debug\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\bin\Debug\TabulationLibraryData.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.csproj.AssemblyReference.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Debug\TabulationLibraryData.pdb

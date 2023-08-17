@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF6EDD2E-9909-4CDB-BDE3-195CA1F5D54E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TabulationLibraryData</RootNamespace>
+    <AssemblyName>TabulationLibraryData</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationLogicLayer\Colleges.cs" />
+    <Compile Include="ApplicationLogicLayer\HighSchools.cs" />
+    <Compile Include="ApplicationLogicLayer\Judges.cs" />
+    <Compile Include="ApplicationLogicLayer\ServerData.cs" />
+    <Compile Include="DataAccessLayer\CandidateModel.cs" />
+    <Compile Include="DataAccessLayer\College.cs" />
+    <Compile Include="DataAccessLayer\DataServerModel.cs" />
+    <Compile Include="DataAccessLayer\FinalResultModel.cs" />
+    <Compile Include="DataAccessLayer\HighSchool.cs" />
+    <Compile Include="DataAccessLayer\ICandidate.cs" />
+    <Compile Include="DataAccessLayer\IJudgesRepository.cs" />
+    <Compile Include="DataAccessLayer\JudgeModel.cs" />
+    <Compile Include="DataAccessLayer\JudgesRepository.cs" />
+    <Compile Include="DataAccessLayer\OverallResultDataAccess.cs" />
+    <Compile Include="DataAccessLayer\ScoresDataAccess.cs" />
+    <Compile Include="DataAccessLayer\ServerController.cs" />
+    <Compile Include="DataAccessLayer\TotalScoreModel.cs" />
+    <Compile Include="DataAccessLayer\VoteModel.cs" />
+    <Compile Include="HelperClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

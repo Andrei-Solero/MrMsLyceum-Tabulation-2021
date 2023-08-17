@@ -1,0 +1,6 @@
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\bin\Release\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\bin\Release\TabulationLibraryData.pdb
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Release\TabulationLibraryData.csproj.AssemblyReference.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Release\TabulationLibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Release\TabulationLibraryData.dll
+C:\Users\Andrei Solero\Downloads\TabulationProject2021App\TabulationProject2021App\TabulationLibraryData\obj\Release\TabulationLibraryData.pdb
